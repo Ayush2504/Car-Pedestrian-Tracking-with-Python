@@ -2,7 +2,6 @@
 It is a simple car and padestrian detecting and tracking app made using python and OpenCV
 
 Download vedio from :- 
-Videos Of Cars And Pedestrians:
 
  Tesla Dashcam: https://www.youtube.com/watch?v=d4L1Pte7zVc
  
